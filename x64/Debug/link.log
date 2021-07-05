@@ -1,0 +1,3 @@
+﻿  Translator.cpp
+C:\Users\eliza\source\repos\link\link\Translator.cpp(137): warning C4715: 'translator': not all control paths return a value
+  link.vcxproj -> C:\Users\eliza\source\repos\link\x64\Debug\link.exe
